@@ -50,6 +50,6 @@ __Part 6:__ Ranks lakes by average winter temperatures.
 
 __Part 7:__ Counts the number of days suitable for swimming for each lake.
 
-Part 8: Counts the number of days each lake is frozen.
+__Part 8:__ Counts the number of days each lake is frozen.
 
-Part 9: Compares the average yearly temperatures for the year 2020 with the year 2019.
+__Part 9:__ Compares the average yearly temperatures for the year 2020 with the year 2019.
